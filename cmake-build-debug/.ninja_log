@@ -1,0 +1,23 @@
+# ninja log v5
+5	610	7337952848004822	CMakeFiles/selection.dir/selection-sort.cpp.obj	1459fbe16cf9f180
+1	656	7337943558429637	CMakeFiles/insertion.dir/insertion-sort.cpp.obj	5731d904e5b99e
+610	759	7337952849461037	selection.exe	e57ad0d7123ab8ad
+8	895	7324530854146117	CMakeFiles/quick.dir/quick-sort.cpp.obj	64de16450687004b
+896	1146	7324530856494030	quick.exe	a2ba95d5dfda95d4
+9	558	7337933494625614	CMakeFiles/bubble.dir/bubble-sort.cpp.obj	16c39f422c52565b
+559	755	7337933496525057	bubble.exe	6ff5368b3351f3dc
+657	848	7337943560327034	insertion.exe	a14de023a132ad68
+6	638	7338042890461884	CMakeFiles/merge.dir/merge-sort.cpp.obj	aafb91198c2eb7f7
+639	927	7338042893191064	merge.exe	2c3b752f17382bfd
+6	598	7386026761046995	CMakeFiles/linked-list.dir/linked-list.cpp.obj	993b28f130f354ab
+599	803	7386026763048680	linked-list.exe	77c946682d607403
+8	701	7386029483800942	CMakeFiles/double-linked-list.dir/double-linked-list.cpp.obj	4b640355549b2f08
+701	874	7386029485477844	double-linked-list.exe	a1920fa039e6372e
+7	609	7386130977339566	CMakeFiles/double-linked-list.dir/double-linked-list.cpp.obj	4b640355549b2f08
+609	816	7386130979361271	double-linked-list.exe	a1920fa039e6372e
+0	673	7386131044896917	CMakeFiles/circular-linked-list.dir/circular-linked-list.cpp.obj	b6ff13c2ef661638
+674	900	7386131047039208	circular-linked-list.exe	94f39032711aa6d9
+5	540	7386132991289837	CMakeFiles/circular-linked-list.dir/circular-linked-list.cpp.obj	b6ff13c2ef661638
+541	772	7386132993517226	circular-linked-list.exe	94f39032711aa6d9
+6	692	7386133674610430	CMakeFiles/circular-linked-list.dir/circular-linked-list.cpp.obj	b6ff13c2ef661638
+693	839	7386133676028078	circular-linked-list.exe	94f39032711aa6d9
