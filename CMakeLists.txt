@@ -42,3 +42,7 @@ add_executable(
         heap
         heap.cpp
 )
+add_executable(
+        BST
+        binary-search-tree.cpp
+)

@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BST-Debug-946288e34b9a2e3d5421.json",
+					"name" : "BST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bubble::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bubble-Debug-c17acfbb237c8399ab3f.json",
+					"name" : "bubble",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "circular-linked-list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-circular-linked-list-Debug-19cc9329971583538960.json",
+					"name" : "circular-linked-list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "double-linked-list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-double-linked-list-Debug-48c75ca13b7d124684b0.json",
+					"name" : "double-linked-list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "heap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-heap-Debug-7b1890207e672c82476c.json",
+					"name" : "heap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "insertion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insertion-Debug-267c0a970f3110f18585.json",
+					"name" : "insertion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linked-list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linked-list-Debug-e38cc56e6c38136689b9.json",
+					"name" : "linked-list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merge-Debug-8cc097ce9df79639f47b.json",
+					"name" : "merge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quick::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quick-Debug-8b4763104de8e2f14fa3.json",
+					"name" : "quick",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selection-Debug-66f83b84a17dda1a5e6f.json",
+					"name" : "selection",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/EDUCATION/FCAI/Second-Year/Second-semester/DataStructures/examples/cmake-build-debug",
+		"source" : "E:/EDUCATION/FCAI/Second-Year/Second-semester/DataStructures/examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

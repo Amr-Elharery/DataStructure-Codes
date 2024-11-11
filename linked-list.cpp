@@ -121,6 +121,19 @@ public:
             return;
     }
 
+
+
+    void insertAtPosition(int value, int position) {
+        Node* InsertedNode = new Node(value, nullptr);
+        int count = 1;
+        for (Node* ptr = head; ptr->next != nullptr; ptr = ptr->next) {
+            if(count == position-1) {
+                InsertedNode->setNext(ptr->getNext());
+                ptr->setNext(InsertedNode);
+                break;
+            }
+        }
+    }
 };
 
 int main(){
@@ -128,13 +141,15 @@ int main(){
     for (int i = 10; i <= 100; i+=10) {
         l.addToLast(i);
     }
+    // l.print();
+    // l.addToFirst(1);
+    // l.print();
+    // l.addToLast(2);
+    // l.print();
+    //
+    // l.addAfter(50, 55);
+    // l.print();
     l.print();
-    l.addToFirst(1);
+    l.insertAtPosition(5,2);
     l.print();
-    l.addToLast(2);
-    l.print();
-
-    l.addAfter(50, 55);
-    l.print();
-
 }
